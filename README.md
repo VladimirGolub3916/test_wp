@@ -1,0 +1,2 @@
+Тестовое задание на WordPress. Кастомная тема WordPress с адаптивной главной страницей, карточками новостей и системой голосования.
+WordPress test assignment. A custom WordPress theme featuring a responsive homepage, news cards, and a voting system.
