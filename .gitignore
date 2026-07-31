@@ -1,0 +1,11 @@
+/wp-config.php
+/wp-content/backups-dup-lite/
+/wp-content/cache/
+/wp-content/upgrade/
+/wp-content/debug.log
+/dup-installer/
+/installer.php
+/dup-installer-*.txt
+/*_archive.zip
+*.log
+*.sql
